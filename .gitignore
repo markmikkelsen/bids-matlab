@@ -72,3 +72,6 @@ codegen/
 
 # Octave session info
 octave-workspace
+
+# RStudio project files
+.Rproj.user
